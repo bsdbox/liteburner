@@ -10,5 +10,5 @@ This fork was created for two reasons:
   - The original software is unable to burn large files (>2GB) to DVD
 
 This project has two main goals:
-  - Create a fix to overcome the 2GB file size limitation
+  - Implement a fix to overcome the 2GB file size limitation
   - Gradually tweak and improve the code over time
