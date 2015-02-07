@@ -3,7 +3,7 @@ A lightweight CD &amp; DVD burning application written in Tcl/Tk
 
 This project is a (very minor) fork of the TkDVD application from http://regis.damongeot.free.fr/tkdvd/
 
-Most of the original code has been unchanged.
+Most of the original code remains unchanged.
 
 This fork was created for two reasons:
   - The original author hasn't published a new release since 2009
